@@ -1,0 +1,3 @@
+[submodule "ryzen-hackintosh"]
+	path = ryzen-hackintosh
+	url = https://github.com/karimkfoure/ryzen-hackintosh
