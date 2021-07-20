@@ -1,0 +1,28 @@
+tap 'homebrew/cask'
+tap 'homebrew/core'
+
+cask 'google-chrome'
+cask 'discord'
+cask 'iterm2'
+
+cask 'docker'
+brew 'docker-compose'
+
+cask 'appcleaner'
+cask 'spotify'
+cask 'telegram'
+
+cask 'postman'
+
+brew 'python3'
+
+cask 'cocoapods'
+
+cask 'obs'
+cask 'obs-ndi'
+
+cask 'anaconda'
+cask 'visual-studio-code'
+
+cask 'github'
+brew 'neofetch'
