@@ -1,10 +1,11 @@
 tap 'homebrew/cask'
 tap 'homebrew/core'
 
-# dev
+## dev
 cask 'cocoapods'
 cask 'mongodb-realm-studio'
 cask 'simsim'
+cask 'sf-symbols'
 cask 'android-studio'
 cask 'docker'
 brew 'docker-compose'
@@ -15,14 +16,19 @@ cask 'visual-studio-code'
 cask 'postman'
 cask 'github'
 
-# daily use
+## daily use
 cask 'google-chrome'
 cask 'spotify'
 cask 'discord'
 cask 'telegram'
 cask 'obs'
 cask 'obs-ndi'
-
-# fresh install tools
+cask 'rectangle'
 cask 'appcleaner'
+
+## hackintosh
 brew 'neofetch'
+cask 'hackintool'
+# propertree
+# mountefi
+# tinkertool
